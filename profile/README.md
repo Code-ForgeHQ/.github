@@ -67,7 +67,9 @@ Creating accessible projects, sharing knowledge, and contributing to the develop
 
 04 / TECHNOLOGY STACK
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=6" alt="Technology icons" /></div> ---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=6" alt="Technology icons" /></div>
+
+---
 
 05 / PROJECTS
 
@@ -77,6 +79,7 @@ Creating accessible projects, sharing knowledge, and contributing to the develop
 PROJECT SHOWCASE
 Add organization repositories here as they become available.
 -->
+
 ---
 
 06 / ENGINEERING PHILOSOPHY
