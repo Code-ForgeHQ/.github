@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+<title id="title">Code Forge — orbital particle core</title>
+<desc id="desc">A precision-engineered silver core surrounded by animated orbital paths and drifting particles.</desc>
+<defs>
+  <radialGradient id="aura"><stop offset="0" stop-color="#e9f1f8" stop-opacity=".19"/><stop offset=".42" stop-color="#aebdcb" stop-opacity=".07"/><stop offset="1" stop-color="#080c12" stop-opacity="0"/></radialGradient>
+  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#718092"/><stop offset=".28" stop-color="#f5f8fc"/><stop offset=".56" stop-color="#9eacbb"/><stop offset=".82" stop-color="#eef3f8"/><stop offset="1" stop-color="#697889"/></linearGradient>
+  <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dce6f0" stop-opacity="0"/><stop offset=".48" stop-color="#e5edf5" stop-opacity=".72"/><stop offset="1" stop-color="#dce6f0" stop-opacity="0"/></linearGradient>
+  <filter id="bloom" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<circle cx="210" cy="210" r="198" fill="url(#aura)"/>
+<circle cx="210" cy="210" r="154" fill="none" stroke="#cbd7e3" stroke-opacity=".12" stroke-width=".8" stroke-dasharray="1 8"/>
+<circle cx="210" cy="210" r="126" fill="none" stroke="#cbd7e3" stroke-opacity=".16" stroke-width="1"/>
+<ellipse cx="210" cy="210" rx="174" ry="69" transform="rotate(-34 210 210)" fill="none" stroke="url(#orbit)" stroke-width="1.2"/>
+<ellipse cx="210" cy="210" rx="160" ry="91" transform="rotate(48 210 210)" fill="none" stroke="#b8c6d5" stroke-opacity=".25" stroke-width="1"/>
+<ellipse cx="210" cy="210" rx="112" ry="176" transform="rotate(68 210 210)" fill="none" stroke="#d9e3ed" stroke-opacity=".13" stroke-width=".8"/>
+<g fill="none" stroke="#e5edf5" stroke-opacity=".32" stroke-width="1">
+  <path d="M210 22V58M210 362V398M22 210H58M362 210H398"/>
+  <path d="M77 77L102 102M318 318L343 343M343 77L318 102M102 318L77 343" stroke-opacity=".18"/>
+</g>
+<g transform="translate(210 210)">
+  <g fill="#eaf1f8" filter="url(#bloom)">
+    <circle cx="174" cy="0" r="2.2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="27s" repeatCount="indefinite"/></circle>
+    <circle cx="-160" cy="0" r="1.8"><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="34s" repeatCount="indefinite"/></circle>
+    <circle cx="0" cy="-176" r="1.6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="41s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="rotate(-34)" fill="#dce6f0">
+    <circle cx="174" cy="0" r="1.6"><animate attributeName="opacity" values=".25;1;.25" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="132" cy="0" r="1.1"><animate attributeName="r" values=".8;2;.8" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="-92" cy="0" r="1.4"><animate attributeName="opacity" values=".2;.9;.2" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="-150" cy="0" r="1"><animate attributeName="r" values=".7;1.8;.7" dur="5.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="rotate(48)" fill="#f4f7fa">
+    <circle cx="160" cy="0" r="1.5"><animate attributeName="opacity" values=".15;.95;.15" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="92" cy="0" r="1.1"><animate attributeName="opacity" values=".9;.2;.9" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="-132" cy="0" r="1.7"><animate attributeName="r" values="1;2.5;1" dur="4.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="rotate(68)" fill="#aebdcd">
+    <circle cx="176" cy="0" r="1.2"><animate attributeName="opacity" values=".15;.8;.15" dur="5.1s" repeatCount="indefinite"/></circle>
+    <circle cx="-176" cy="0" r="1.2"><animate attributeName="opacity" values=".8;.15;.8" dur="4.7s" repeatCount="indefinite"/></circle>
+  </g>
+</g>
+<circle cx="210" cy="210" r="54" fill="#dce7f2" opacity=".06" filter="url(#soft)"/>
+<circle cx="210" cy="210" r="42" fill="#0b1119" stroke="url(#steel)" stroke-width="1.5"/>
+<circle cx="210" cy="210" r="33" fill="none" stroke="#dce6f0" stroke-opacity=".22" stroke-dasharray="2 5"/>
+<path d="M210 179L237 194V226L210 241L183 226V194Z" fill="none" stroke="url(#steel)" stroke-width="2.2" stroke-linejoin="round" filter="url(#bloom)"/>
+<path d="M197 220L210 190L223 220M202 210H218" fill="none" stroke="#f2f6fa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="210" cy="210" r="3" fill="#fff" filter="url(#bloom)"><animate attributeName="opacity" values=".55;1;.55" dur="2.8s" repeatCount="indefinite"/></circle>
+<g fill="#e6edf5">
+  <circle cx="210" cy="14" r="1.2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="406" cy="210" r="1.1"><animate attributeName="opacity" values=".9;.2;.9" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="210" cy="406" r="1.2"><animate attributeName="opacity" values=".2;.9;.2" dur="3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="14" cy="210" r="1.1"><animate attributeName="opacity" values=".9;.2;.9" dur="4.4s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
