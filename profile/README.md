@@ -1,152 +1,154 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-atmosphere.svg" width="100%" alt="Animated silver particles and dark atmospheric background" />
+# CODE FORGE
 
-<h1>ＣＯＤＥ　ＦＯＲＧＥ</h1>
+<sub>SOFTWARE SYSTEMS · PRODUCT ENGINEERING · OPEN SOURCE</sub>
 
-<p><strong>BUILDING SOFTWARE. FORGING IDEAS.</strong></p>
+<table>
+  <tr>
+    <td align="center" width="42%">
+      <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-core.svg" width="260" alt="Animated silver orbital core" />
+    </td>
+    <td align="left" valign="middle">
+      <h2>Ideas deserve more than a concept.</h2>
+      <p>We turn them into software: designed with intent, engineered with care, and built to be useful beyond the first release.</p>
+      <p><a href="https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io">EXPLORE AETHER</a> &nbsp;·&nbsp; <a href="https://github.com/orgs/Code-ForgeHQ/repositories">ALL REPOSITORIES</a></p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/Code-ForgeHQ">GITHUB ORGANIZATION</a>
-  &nbsp; ◈ &nbsp;
-  <a href="https://github.com/Code-ForgeHQ?tab=repositories">EXPLORE PROJECTS</a>
+<sub>AN INDEPENDENT SOFTWARE DEVELOPMENT ORGANIZATION</sub>
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
 </p>
 
-<p><sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE &nbsp; / &nbsp; OPEN SOURCE</sub></p>
+## 01 / THE FORGE
 
-</div>
+Code Forge is the home for software projects developed and published under this organization.
 
----
+Our focus is practical engineering: understanding a problem, shaping a clear system around it, and delivering software that people can actually use. We care about the details behind the interface as much as the interface itself — architecture, performance, privacy, accessibility, and maintainability.
 
-## 01 — WHO WE ARE
+We prefer working products over decorative promises. If a capability has limits, those limits should be visible and documented.
 
-Code Forge is an independent software development organization focused on engineering, technology, and building meaningful digital solutions.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+</p>
 
-We believe software is more than lines of code. It is a process of transforming concepts into functional products through research, experimentation, design, and engineering.
-
-Our goal is to create technology that is useful, reliable, thoughtfully designed, and built to evolve.
-
-We bring together technical curiosity and a product-oriented mindset to explore new possibilities and turn ambitious ideas into working software.
-
----
-
-## 02 — OUR MISSION
-
-<div align="center">
-  <h3>Turning Ideas Into Technology.</h3>
-  <p><sub>From the first concept to a working, evolving product.</sub></p>
-</div>
-
-Our mission is to develop software that makes a difference through:
-
-- Engineering solutions to practical problems.
-- Exploring emerging technologies and new approaches.
-- Building reliable and maintainable software.
-- Encouraging open collaboration and knowledge sharing.
-- Continuously improving the way digital products are designed and developed.
-
----
-
-## 03 — WHAT WE BUILD
+## 02 / CURRENT FLAGSHIP
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>◈ Software Engineering</h3>
-      Designing and developing applications, software systems, and practical developer tools.
+    <td width="68%" valign="top">
+      <h3>AETHER</h3>
+      <sub>DIGITAL OPERATING ENVIRONMENT · WEB / PWA</sub>
+      <p>AETHER brings multiple everyday tools into one cohesive, local-first browser environment — instead of scattering them across unrelated pages and utilities.</p>
+      <p><a href="https://code-forgehq.github.io/">OPEN LIVE ENVIRONMENT ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io">SOURCE CODE ↗</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>◈ Artificial Intelligence</h3>
-      Exploring intelligent systems, machine learning, and AI-powered software solutions.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◈ Web Technologies</h3>
-      Developing modern web applications, interactive experiences, and digital platforms.
-    </td>
-    <td width="50%" valign="top">
-      <h3>◈ Open Source</h3>
-      Creating accessible projects, sharing knowledge, and contributing to the developer ecosystem.
+    <td width="32%" valign="top">
+      <strong>INSIDE AETHER</strong>
+      <ul>
+        <li>Workspace</li>
+        <li>Local files</li>
+        <li>Code studio</li>
+        <li>Encrypted vault</li>
+        <li>Network utilities</li>
+        <li>Command console</li>
+        <li>Analytics & controls</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+**The engineering behind it**
 
-## 04 — TECHNOLOGY LANDSCAPE
+- Local-first data model with browser storage
+- Browser-side encryption using Web Crypto
+- Responsive desktop, tablet, and mobile interface
+- Installable application shell with service-worker caching
+- Bilingual interface and reduced-motion support
+- Static HTML, CSS, and JavaScript — no package build chain
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=6" alt="Technologies used across our development interests" />
-
-<p><sub>Tools and technologies evolve with the needs of each project.</sub></p>
-
-</div>
-
----
-
-## 05 — SELECTED WORK
-
-<div align="center">
-  <h3>Ideas become real through what we build.</h3>
-  <p>Explore the organization repositories to discover our software, experiments, tools, and ongoing work.</p>
-  <a href="https://github.com/Code-ForgeHQ?tab=repositories">BROWSE ALL REPOSITORIES →</a>
-</div>
-
-<!-- Add project showcases here as public repositories are released. -->
-
----
-
-## 06 — HOW WE THINK
+## 03 / ENGINEERING PRINCIPLES
 
 <table>
   <tr>
-    <td width="30%"><strong>Purposeful Engineering</strong></td>
-    <td>Every project should have a clear purpose and direction.</td>
+    <td width="50%" valign="top">
+      <strong>01 — PURPOSE OVER NOISE</strong>
+      <p>Every feature should solve a real problem. We avoid adding complexity just to make a project look bigger.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 — SYSTEMS THAT HOLD TOGETHER</strong>
+      <p>Clear boundaries, consistent behavior, and maintainable architecture matter from the first commit.</p>
+    </td>
   </tr>
   <tr>
-    <td><strong>Technical Quality</strong></td>
-    <td>Maintainability, reliability, and thoughtful architecture matter.</td>
-  </tr>
-  <tr>
-    <td><strong>Continuous Evolution</strong></td>
-    <td>Technology changes. Our knowledge and methods should evolve with it.</td>
-  </tr>
-  <tr>
-    <td><strong>Creative Exploration</strong></td>
-    <td>Experimentation is an essential part of innovation.</td>
-  </tr>
-  <tr>
-    <td><strong>Open Collaboration</strong></td>
-    <td>Stronger ideas emerge through sharing and collaboration.</td>
+    <td width="50%" valign="top">
+      <strong>03 — PRIVACY BY DESIGN</strong>
+      <p>Data handling should be deliberate. Security claims must match the implementation, not the marketing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 — BUILT TO EVOLVE</strong>
+      <p>We test ideas, learn from real use, document limitations, and improve the product instead of chasing noise.</p>
+    </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+</p>
 
-## 07 — OPEN SOURCE & COLLABORATION
-
-We value the open-source ecosystem and the developers who contribute to it.
-
-As Code Forge grows, this organization will serve as a home for our software projects, development tools, experiments, and collaborative work.
-
-We welcome constructive feedback, technical discussions, and meaningful contributions to our public projects.
-
----
+## 04 / TECHNOLOGY
 
 <div align="center">
 
-## 08 — CONNECT
+**CORE WEB**  
+HTML · CSS · JavaScript · Browser APIs
 
-<a href="https://github.com/Code-ForgeHQ">Explore Code Forge on GitHub</a>
+**APPLICATION & PLATFORM**  
+Progressive Web Apps · Service Workers · Local Storage
 
-<br/>
+**SECURITY & DATA**  
+Web Crypto API · PBKDF2 · AES-GCM · Browser-side persistence
 
-<sub>BUILDING SOFTWARE. FORGING IDEAS.</sub>
+**ENGINEERING**  
+Git · GitHub · Accessibility · Responsive Design · Reduced Motion
 
-<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-atmosphere.svg" width="100%" alt="Code Forge silver particle atmosphere" />
+</div>
 
-<sub>CODE FORGE · SOFTWARE DEVELOPMENT ORGANIZATION</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+</p>
+
+## 05 / EXPLORE THE WORK
+
+| DESTINATION | WHAT YOU WILL FIND |
+| --- | --- |
+| [AETHER — Live](https://code-forgehq.github.io/) | The current public product |
+| [AETHER — Source](https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io) | Application code, architecture, and documentation |
+| [Repositories](https://github.com/orgs/Code-ForgeHQ/repositories) | All public work published by Code Forge |
+| [Organization](https://github.com/Code-ForgeHQ) | Updates and organization activity |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+</p>
+
+## 06 / BUILD WITH US
+
+We welcome thoughtful issue reports, technical feedback, and contributions to public projects.
+
+Before opening a pull request, read the project's contribution guide and include enough context for the change to be reviewed properly.
+
+<div align="center">
+
+**LESS NOISE. BETTER SYSTEMS. SOFTWARE THAT WORKS.**
+
+<sub>CODE FORGE · DESIGN WITH INTENT / BUILD WITH PRECISION</sub>
 
 </div>
