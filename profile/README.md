@@ -1,14 +1,24 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,35:0D1B35,70:123C70,100:1F6FEB&height=230&section=header&text=CODE%20FORGE&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20SOFTWARE.%20FORGING%20IDEAS.&descSize=16&descAlignY=60&animation=fadeIn" /><a href="https://github.com/Code-ForgeHQ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Ideas+Into+Reality;Software+%7C+AI+%7C+Open+Source;Innovation+Through+Code" alt="Typing SVG" />
-</a><br/><a href="https://github.com/Code-ForgeHQ">
-  <img src="https://img.shields.io/badge/ORGANIZATION-CODE--FORGE-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0969DA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MINDSET-ENGINEERING-8957E5?style=for-the-badge" /></div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-atmosphere.svg" width="100%" alt="Animated silver particles and dark atmospheric background" />
+
+<h1>ＣＯＤＥ　ＦＯＲＧＥ</h1>
+
+<p><strong>BUILDING SOFTWARE. FORGING IDEAS.</strong></p>
+
+<p>
+  <a href="https://github.com/Code-ForgeHQ">GITHUB ORGANIZATION</a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/Code-ForgeHQ?tab=repositories">EXPLORE PROJECTS</a>
+</p>
+
+<p><sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE &nbsp; / &nbsp; OPEN SOURCE</sub></p>
+
+</div>
 
 ---
 
-01 / WHO WE ARE
+## 01 — WHO WE ARE
 
 Code Forge is an independent software development organization focused on engineering, technology, and building meaningful digital solutions.
 
@@ -20,11 +30,14 @@ We bring together technical curiosity and a product-oriented mindset to explore 
 
 ---
 
-02 / OUR MISSION
+## 02 — OUR MISSION
 
-<div align="center">Turning Ideas Into Technology.
+<div align="center">
+  <h3>Turning Ideas Into Technology.</h3>
+  <p><sub>From the first concept to a working, evolving product.</sub></p>
+</div>
 
-</div>Our mission is to develop software that makes a difference through:
+Our mission is to develop software that makes a difference through:
 
 - Engineering solutions to practical problems.
 - Exploring emerging technologies and new approaches.
@@ -34,66 +47,85 @@ We bring together technical curiosity and a product-oriented mindset to explore 
 
 ---
 
-03 / AREAS OF DEVELOPMENT
+## 03 — WHAT WE BUILD
 
 <table>
-<tr>
-<td width="50%" valign="top">◈ Software Engineering
-
-Designing and developing applications, software systems, and practical developer tools.
-
-</td>
-<td width="50%" valign="top">◈ Artificial Intelligence
-
-Exploring intelligent systems, machine learning, and AI-powered software solutions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">◈ Web Technologies
-
-Developing modern web applications, interactive experiences, and digital platforms.
-
-</td>
-<td width="50%" valign="top">◈ Open Source
-
-Creating accessible projects, sharing knowledge, and contributing to the developer ecosystem.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Software Engineering</h3>
+      Designing and developing applications, software systems, and practical developer tools.
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Artificial Intelligence</h3>
+      Exploring intelligent systems, machine learning, and AI-powered software solutions.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ Web Technologies</h3>
+      Developing modern web applications, interactive experiences, and digital platforms.
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Open Source</h3>
+      Creating accessible projects, sharing knowledge, and contributing to the developer ecosystem.
+    </td>
+  </tr>
 </table>
 
 ---
 
-04 / TECHNOLOGY STACK
+## 04 — TECHNOLOGY LANDSCAPE
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=6" alt="Technology icons" /></div>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,linux,vscode&perline=6" alt="Technologies used across our development interests" />
 
-05 / PROJECTS
+<p><sub>Tools and technologies evolve with the needs of each project.</sub></p>
 
-<div align="center">The next generation of projects starts here.
-
-</div><!--
-PROJECT SHOWCASE
-Add organization repositories here as they become available.
--->
+</div>
 
 ---
 
-06 / ENGINEERING PHILOSOPHY
+## 05 — SELECTED WORK
 
-PRINCIPLE| DESCRIPTION
-Purposeful Engineering| Every project should have a clear purpose and direction.
-Technical Quality| Maintainability, reliability, and thoughtful architecture matter.
-Continuous Evolution| Technology changes. Our knowledge and methods should evolve with it.
-Creative Exploration| Experimentation is an essential part of innovation.
-Open Collaboration| Stronger ideas emerge through sharing and collaboration.
+<div align="center">
+  <h3>Ideas become real through what we build.</h3>
+  <p>Explore the organization repositories to discover our software, experiments, tools, and ongoing work.</p>
+  <a href="https://github.com/Code-ForgeHQ?tab=repositories">BROWSE ALL REPOSITORIES →</a>
+</div>
+
+<!-- Add project showcases here as public repositories are released. -->
 
 ---
 
-07 / OPEN SOURCE & COLLABORATION
+## 06 — HOW WE THINK
+
+<table>
+  <tr>
+    <td width="30%"><strong>Purposeful Engineering</strong></td>
+    <td>Every project should have a clear purpose and direction.</td>
+  </tr>
+  <tr>
+    <td><strong>Technical Quality</strong></td>
+    <td>Maintainability, reliability, and thoughtful architecture matter.</td>
+  </tr>
+  <tr>
+    <td><strong>Continuous Evolution</strong></td>
+    <td>Technology changes. Our knowledge and methods should evolve with it.</td>
+  </tr>
+  <tr>
+    <td><strong>Creative Exploration</strong></td>
+    <td>Experimentation is an essential part of innovation.</td>
+  </tr>
+  <tr>
+    <td><strong>Open Collaboration</strong></td>
+    <td>Stronger ideas emerge through sharing and collaboration.</td>
+  </tr>
+</table>
+
+---
+
+## 07 — OPEN SOURCE & COLLABORATION
 
 We value the open-source ecosystem and the developers who contribute to it.
 
@@ -103,14 +135,18 @@ We welcome constructive feedback, technical discussions, and meaningful contribu
 
 ---
 
-08 / CONNECT
+<div align="center">
 
-<div align="center"><a href="https://github.com/Code-ForgeHQ">
-<img src="https://img.shields.io/badge/Explore_Our_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><br/><br/>
+## 08 — CONNECT
 
-Building software. Forging ideas.
+<a href="https://github.com/Code-ForgeHQ">Explore Code Forge on GitHub</a>
+
+<br/>
+
+<sub>BUILDING SOFTWARE. FORGING IDEAS.</sub>
+
+<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-atmosphere.svg" width="100%" alt="Code Forge silver particle atmosphere" />
 
 <sub>CODE FORGE · SOFTWARE DEVELOPMENT ORGANIZATION</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:123C70,100:050A18&height=110&section=footer" /></div>
+</div>
