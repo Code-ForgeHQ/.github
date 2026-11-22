@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720" viewBox="0 0 1440 720" fill="none">
+<defs>
+ <radialGradient id="bg"><stop stop-color="#20252b"/><stop offset=".48" stop-color="#090b0e"/><stop offset="1" stop-color="#030405"/></radialGradient>
+ <radialGradient id="halo"><stop stop-color="#e8edf2" stop-opacity=".28"/><stop offset=".24" stop-color="#9ba8b5" stop-opacity=".13"/><stop offset="1" stop-color="#778899" stop-opacity="0"/></radialGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".24" stop-color="#89949f"/><stop offset=".52" stop-color="#f4f6f8"/><stop offset=".78" stop-color="#69737d"/><stop offset="1" stop-color="#dce2e8"/></linearGradient>
+ <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#aab6c2" stop-opacity="0"/><stop offset=".5" stop-color="#e4ebf2" stop-opacity=".85"/><stop offset="1" stop-color="#aab6c2" stop-opacity="0"/></linearGradient>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#aeb9c5" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <pattern id="micro" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#dfe7ef" fill-opacity=".35"/></pattern>
+</defs>
+<rect width="1440" height="720" rx="18" fill="url(#bg)"/>
+<rect width="1440" height="720" rx="18" fill="url(#grid)"/>
+<rect width="1440" height="720" rx="18" fill="url(#micro)" opacity=".28"/>
+<ellipse cx="1030" cy="345" rx="480" ry="390" fill="url(#halo)"/>
+<g stroke="#cbd5df" fill="none" opacity=".25">
+ <path d="M0 560L430 130L1440 130"/><path d="M0 600L480 120L1440 120" opacity=".35"/>
+ <path d="M870 0V720M910 0V720" opacity=".12"/><path d="M0 630H1440" opacity=".18"/>
+ <path d="M1010 0L1440 430M1060 0L1440 380" opacity=".15"/>
+</g>
+<g transform="translate(1035 342)" filter="url(#glow)">
+ <circle r="248" stroke="#c6d0da" stroke-opacity=".15" stroke-width="1"/>
+ <circle r="216" stroke="#dfe6ed" stroke-opacity=".34" stroke-width="1.2" stroke-dasharray="2 9"/>
+ <circle r="183" stroke="#9eabb8" stroke-opacity=".42" stroke-width="1"/>
+ <circle r="151" stroke="#e2e8ee" stroke-opacity=".18" stroke-width="1" stroke-dasharray="80 18 8 18"/>
+ <circle r="118" stroke="#dbe2e9" stroke-opacity=".6" stroke-width="1.4"/>
+ <circle r="90" stroke="#e8edf2" stroke-opacity=".22" stroke-width="1" stroke-dasharray="3 7"/>
+ <path d="M-270 0H270M0-270V270M-190-190L190 190M190-190L-190 190" stroke="#e3e9ef" stroke-opacity=".13"/>
+ <path d="M-232 -80A246 246 0 0 1 85 -231" stroke="url(#metal)" stroke-width="3" stroke-linecap="round">
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/>
+ </path>
+ <path d="M210 90A232 232 0 0 1 -80 218" stroke="#f1f5f8" stroke-opacity=".65" stroke-width="2" stroke-linecap="round">
+  <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
+ </path>
+ <g>
+  <path d="M-57 -66L0 -98L57 -66V0L0 33L-57 0Z" stroke="url(#metal)" stroke-width="3" fill="#cbd5df" fill-opacity=".08"/>
+  <path d="M-57 -66L0 -33L57 -66M0 -33V33M-57 0L0 33L57 0" stroke="#f4f7fa" stroke-opacity=".85" stroke-width="2"/>
+  <path d="M-29 -49L0 -66L29 -49V-15L0 2L-29 -15Z" fill="#e6edf4" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/>
+  <circle r="8" fill="#fff" filter="url(#glow)"/>
+ </g>
+</g>
+<g fill="#e8eef5">
+ <circle cx="780" cy="122" r="2.2"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1260" cy="150" r="1.5"><animate attributeName="opacity" values=".1;.9;.1" dur="3.1s" repeatCount="indefinite"/></circle>
+ <circle cx="1320" cy="500" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="850" cy="590" r="1.8"><animate attributeName="opacity" values=".1;.8;.1" dur="3.8s" repeatCount="indefinite"/></circle>
+ <circle cx="1120" cy="80" r="1.3"><animate attributeName="opacity" values=".1;1;.1" dur="1.9s" repeatCount="indefinite"/></circle>
+ <circle cx="690" cy="400" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+ <circle cx="1380" cy="260" r="1.2"><animate attributeName="opacity" values=".1;.9;.1" dur="2.2s" repeatCount="indefinite"/></circle>
+ <circle cx="960" cy="660" r="1.4"><animate attributeName="opacity" values=".1;.9;.1" dur="3.3s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#dce5ed" stroke-opacity=".28" stroke-width="1">
+ <path d="M748 178L822 178L846 154"/><path d="M1260 245L1320 245L1350 215"/><path d="M1190 590L1260 590L1280 570"/>
+</g>
+<g fill="#c6d0da" font-family="Arial,Helvetica,sans-serif">
+ <text x="86" y="94" font-size="13" letter-spacing="5" opacity=".72">INDEPENDENT SOFTWARE ORGANIZATION / EST. IN CODE</text>
+ <text x="82" y="298" font-size="76" font-weight="700" letter-spacing="5" fill="url(#metal)">CODE</text>
+ <text x="82" y="382" font-size="76" font-weight="700" letter-spacing="5" fill="url(#metal)">FORGE</text>
+ <path d="M86 420H520" stroke="url(#beam)" stroke-width="2"/>
+ <text x="88" y="468" font-size="17" letter-spacing="4" fill="#e4eaf0">ENGINEERED TO MAKE IDEAS REAL.</text>
+ <text x="88" y="510" font-size="13" letter-spacing="2" opacity=".65">SOFTWARE SYSTEMS · PRODUCT ENGINEERING · OPEN SOURCE</text>
+ <text x="88" y="646" font-size="11" letter-spacing="3" opacity=".48">CF / 001</text>
+ <text x="1340" y="646" font-size="11" letter-spacing="3" text-anchor="end" opacity=".48">BUILD WITH PRECISION</text>
+</g>
+<g stroke="url(#beam)" stroke-width="1.5" opacity=".8">
+ <path d="M80 680H1360"><animate attributeName="opacity" values=".15;.8;.15" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#fff" opacity=".6" filter="url(#soft)">
+ <circle cx="1035" cy="342" r="3"><animate attributeName="r" values="2;5;2" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
