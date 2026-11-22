@@ -1,154 +1,170 @@
 <div align="center">
 
-# CODE FORGE
-
-<sub>SOFTWARE SYSTEMS · PRODUCT ENGINEERING · OPEN SOURCE</sub>
+<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-cinematic.svg" width="100%" alt="Code Forge — cinematic silver identity" />
 
 <table>
   <tr>
-    <td align="center" width="42%">
-      <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-core.svg" width="260" alt="Animated silver orbital core" />
-    </td>
-    <td align="left" valign="middle">
-      <h2>Ideas deserve more than a concept.</h2>
-      <p>We turn them into software: designed with intent, engineered with care, and built to be useful beyond the first release.</p>
-      <p><a href="https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io">EXPLORE AETHER</a> &nbsp;·&nbsp; <a href="https://github.com/orgs/Code-ForgeHQ/repositories">ALL REPOSITORIES</a></p>
-    </td>
+    <td align="center" width="33%"><sub>01 / THINK</sub><br/><strong>Clarity before code</strong></td>
+    <td align="center" width="34%"><sub>02 / ENGINEER</sub><br/><strong>Systems with purpose</strong></td>
+    <td align="center" width="33%"><sub>03 / DELIVER</sub><br/><strong>Software that works</strong></td>
   </tr>
 </table>
-
-<sub>AN INDEPENDENT SOFTWARE DEVELOPMENT ORGANIZATION</sub>
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
-</p>
+---
 
-## 01 / THE FORGE
+## THE ORGANIZATION
 
-Code Forge is the home for software projects developed and published under this organization.
+**Code Forge** is an independent software development organization focused on turning ambitious ideas into useful, carefully engineered products.
 
-Our focus is practical engineering: understanding a problem, shaping a clear system around it, and delivering software that people can actually use. We care about the details behind the interface as much as the interface itself — architecture, performance, privacy, accessibility, and maintainability.
+We build software around real needs — from the first system boundary to the smallest interaction. The goal is not to ship noise. It is to create products that feel coherent, dependable, and worth using.
 
-We prefer working products over decorative promises. If a capability has limits, those limits should be visible and documented.
+<sub>PRODUCT ENGINEERING&nbsp;&nbsp; / &nbsp;&nbsp;SOFTWARE SYSTEMS&nbsp;&nbsp; / &nbsp;&nbsp;OPEN SOURCE</sub>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
-</p>
+---
 
-## 02 / CURRENT FLAGSHIP
+## 01 — THE FLAGSHIP
 
 <table>
   <tr>
-    <td width="68%" valign="top">
-      <h3>AETHER</h3>
-      <sub>DIGITAL OPERATING ENVIRONMENT · WEB / PWA</sub>
-      <p>AETHER brings multiple everyday tools into one cohesive, local-first browser environment — instead of scattering them across unrelated pages and utilities.</p>
-      <p><a href="https://code-forgehq.github.io/">OPEN LIVE ENVIRONMENT ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io">SOURCE CODE ↗</a></p>
-    </td>
-    <td width="32%" valign="top">
-      <strong>INSIDE AETHER</strong>
-      <ul>
-        <li>Workspace</li>
-        <li>Local files</li>
-        <li>Code studio</li>
-        <li>Encrypted vault</li>
-        <li>Network utilities</li>
-        <li>Command console</li>
-        <li>Analytics & controls</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    <td width="62%" valign="top">
 
-**The engineering behind it**
+### AETHER
 
-- Local-first data model with browser storage
-- Browser-side encryption using Web Crypto
-- Responsive desktop, tablet, and mobile interface
-- Installable application shell with service-worker caching
-- Bilingual interface and reduced-motion support
-- Static HTML, CSS, and JavaScript — no package build chain
+**A DIGITAL OPERATING ENVIRONMENT**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
-</p>
+AETHER brings a collection of everyday digital tools into one connected, local-first browser environment. Workspace, files, creation tools, privacy features, and system utilities share one interface instead of living as disconnected utilities.
 
-## 03 / ENGINEERING PRINCIPLES
+[OPEN AETHER ↗](https://code-forgehq.github.io/)  
+[EXPLORE THE SOURCE ↗](https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 — PURPOSE OVER NOISE</strong>
-      <p>Every feature should solve a real problem. We avoid adding complexity just to make a project look bigger.</p>
     </td>
-    <td width="50%" valign="top">
-      <strong>02 — SYSTEMS THAT HOLD TOGETHER</strong>
-      <p>Clear boundaries, consistent behavior, and maintainable architecture matter from the first commit.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 — PRIVACY BY DESIGN</strong>
-      <p>Data handling should be deliberate. Security claims must match the implementation, not the marketing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 — BUILT TO EVOLVE</strong>
-      <p>We test ideas, learn from real use, document limitations, and improve the product instead of chasing noise.</p>
+    <td width="38%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/forge-core.svg" width="210" alt="Aether-inspired silver core" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/aether-system-map.svg" width="100%" alt="AETHER system map showing its connected modules" />
 </p>
 
-## 04 / TECHNOLOGY
+**AETHER / SYSTEM MODULES**
+
+| MODULE | PURPOSE |
+| :--- | :--- |
+| Workspace | A unified starting point for everyday work |
+| Local files | Browser-based file handling |
+| Code studio | Create and preview code |
+| Secure vault | Encrypted storage using browser cryptography |
+| Network tools | Practical network utilities |
+| Command console | A focused command interface |
+| Analytics & controls | Visibility and configuration |
+
+<sub>BUILT WITH HTML · CSS · JAVASCRIPT · WEB PLATFORM APIS · PWA TECHNOLOGIES</sub>
+
+---
+
+## 02 — HOW WE BUILD
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**01 / INTENT**
+
+A feature needs a reason to exist. We start with the problem, not a list of trends.
+
+**02 / ARCHITECTURE**
+
+Clear boundaries and predictable behavior make software easier to understand and evolve.
+
+    </td>
+    <td width="50%" valign="top">
+
+**03 / CRAFT**
+
+The interface, performance, accessibility, and small details are all part of the product.
+
+**04 / TRUST**
+
+Privacy and security claims must reflect the actual implementation. Limitations should be documented.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 03 — THE WORKBENCH
 
 <div align="center">
 
-**CORE WEB**  
-HTML · CSS · JavaScript · Browser APIs
-
-**APPLICATION & PLATFORM**  
-Progressive Web Apps · Service Workers · Local Storage
-
-**SECURITY & DATA**  
-Web Crypto API · PBKDF2 · AES-GCM · Browser-side persistence
-
-**ENGINEERING**  
-Git · GitHub · Accessibility · Responsive Design · Reduced Motion
+| LAYER | TOOLS & PRACTICES |
+| :--- | :--- |
+| **WEB** | HTML · CSS · JavaScript · Browser APIs |
+| **APPLICATIONS** | Progressive Web Apps · Service Workers · Responsive UI |
+| **SECURITY** | Web Crypto API · PBKDF2 · AES-GCM |
+| **ENGINEERING** | Git · GitHub · Accessibility · Maintainable Architecture |
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
-</p>
+---
 
-## 05 / EXPLORE THE WORK
+## 04 — EXPLORE
 
-| DESTINATION | WHAT YOU WILL FIND |
-| --- | --- |
-| [AETHER — Live](https://code-forgehq.github.io/) | The current public product |
-| [AETHER — Source](https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io) | Application code, architecture, and documentation |
-| [Repositories](https://github.com/orgs/Code-ForgeHQ/repositories) | All public work published by Code Forge |
-| [Organization](https://github.com/Code-ForgeHQ) | Updates and organization activity |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
-</p>
+**AETHER / LIVE PRODUCT**
 
-## 06 / BUILD WITH US
+The current public product.
 
-We welcome thoughtful issue reports, technical feedback, and contributions to public projects.
+[Launch the environment ↗](https://code-forgehq.github.io/)
 
-Before opening a pull request, read the project's contribution guide and include enough context for the change to be reviewed properly.
+    </td>
+    <td width="50%" valign="top">
+
+**AETHER / SOURCE**
+
+Application code, architecture, and documentation.
+
+[Open the repository ↗](https://github.com/Code-ForgeHQ/Code-ForgeHQ.github.io)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**ALL REPOSITORIES**
+
+Browse software published by the organization.
+
+[View repositories ↗](https://github.com/orgs/Code-ForgeHQ/repositories)
+
+    </td>
+    <td width="50%" valign="top">
+
+**CONTRIBUTE**
+
+Issues, feedback, and thoughtful contributions are welcome.
+
+[Explore the organization ↗](https://github.com/Code-ForgeHQ)
+
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
 
-**LESS NOISE. BETTER SYSTEMS. SOFTWARE THAT WORKS.**
+<img src="https://raw.githubusercontent.com/Code-ForgeHQ/.github/main/profile/assets/particle-rule.svg" width="100%" alt="" />
 
-<sub>CODE FORGE · DESIGN WITH INTENT / BUILD WITH PRECISION</sub>
+### LESS NOISE. BETTER SYSTEMS.
+
+<sub>CODE FORGE&nbsp;&nbsp; / &nbsp;&nbsp;DESIGN WITH INTENT · BUILD WITH PRECISION</sub>
 
 </div>
